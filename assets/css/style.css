@@ -1,0 +1,144 @@
+#logo
+{
+    width: 404px;
+    height: 123px;
+}
+#carrosselItem{
+    max-width: 100%;
+    height: auto;
+}
+
+.azul
+{
+    background-color: #47A4B9;
+}
+.laranja
+{
+    background-color: #C43928;
+}
+.preto
+{
+    background-color: black;
+}
+.bold
+{
+    font-weight: bold;
+}
+.icons{
+    width: 3%;
+}
+.h1{
+    font-family: 'Montserrat';
+    font-size: 50px;
+}
+.textbody{
+    font-family: 'Montserrat';
+    font-size: 45px;
+}
+.container
+{
+    margin-left: 5%;
+    display:inline-block;
+}
+.subtitle
+{
+    font-size: 25px;
+    color: white;
+    font-weight: normal;
+    padding-top: 2%;
+}
+.conteudo
+{
+    padding-bottom: 5%;
+}
+.titulo-footer
+{
+    color: #C43928;
+}
+.selecionado
+{
+    border-radius: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-variant: normal;
+}
+.selecionado:hover
+{
+    border-radius: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: white !important;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-variant: normal;
+}
+.coluna
+{
+    max-width: 25%;
+}
+.footer-b
+{
+    font-size: 25px;
+    color: black;
+}
+.trequinho
+{
+    max-width: 47%;
+    height: 5%;
+    text-align: center;
+    margin-top: 5%;
+}
+.caixa
+{
+    position: relative;
+    margin-left: 10%;
+}
+.titulo
+{
+    font-weight: bold;
+    position: absolute;
+    /* left: 250px; */
+    top: 30%;
+}
+.footer-w
+{
+    color: white;
+}
+.item-menu
+{
+    font-weight: bold;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-variant: normal;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color:black;
+}
+textarea, input{
+    border:1px solid #C43928;
+    border-radius: 5px;
+} 
+button{
+    border-radius: 5px;
+    border:0 none;
+    color: white;
+    background-color: #C43928;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-left: 6%;
+    padding-right: 6%;
+}

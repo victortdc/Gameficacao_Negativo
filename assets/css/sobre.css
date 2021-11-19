@@ -1,0 +1,12 @@
+.titulo
+{
+    position: absolute;
+    /* left: 250px; */
+    top: 18%;
+}
+.corpo
+{
+    font-size: 19px;
+    margin-top: 5%;
+    width: 75%;
+}
